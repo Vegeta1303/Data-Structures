@@ -1,0 +1,15 @@
+void reverse_array(int * arr , int size);
+void kth_elements(int *arr , int size);
+void sort_array(int *arr , int size);
+void print_array(int *arr , int size);
+void sub_array(int *arr , int size);
+void negative_elements(int *arr , int size);
+void non_repeating(int *arr , int size);
+void repeating(int *arr , int size);
+void sub_array_product(int *arr , int size);
+int sum_of_array(int *array , int size);
+int max_of_array(int *array , int size);
+void remove_duplicates(int *arr , int size);
+void delete_element(int *arr , int size , int value);
+void difference_of_sub_array(int *arr , int size);
+void sub_set_checker(int *set1 , int *set2, int size1 , int size2);
